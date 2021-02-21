@@ -1,0 +1,10 @@
+<div class="twin-btn">
+	<div (click)="changeValue(left.value)"
+		[class]="currentValue == left.value ? 'left color animated fadeIn' : 'left grey animated fadeIn'">
+		{{left.key}}
+	</div>
+	<div (click)="changeValue(right.value)"
+		[class]="currentValue == right.value ? 'right color animated fadeIn' : 'right grey animated fadeIn'">
+		{{right.key}}
+	</div>
+</div>
