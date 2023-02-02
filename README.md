@@ -23,6 +23,7 @@
 
 ##### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=for-the-badge&logo=Nest.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=Laravel&logoColor=fff)
 ![Lumen](https://img.shields.io/badge/-lumen-black?style=for-the-badge&logo=lumen)
 
