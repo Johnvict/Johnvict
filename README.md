@@ -17,6 +17,7 @@
 ![Php](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-black?style=for-the-badge&logo=Ionic)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 
