@@ -1,7 +1,7 @@
-### Hi there 👨🏽‍💻
+### Hi there 🙋
 
-### About me
-**I am a highly driven, curious and incredibly fast learner seeking new challenges at a global scale and I believe beyond technical skills, a fast and willing learner is a valuable skill set to posses**
+### Am Johnvict
+**A highly motivated Software Engineer, passionately driven, curious and an incredible fast learner, always seeking new challenges at a global scale and I believe beyond technical skills, being of good personality is also an invaluable skill**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Johnvict%20O.%20Olamibo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnvict/)](https://www.linkedin.com/in/johnvict/)  [![Twitter Badge](https://img.shields.io/badge/-@Johnvict___-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/@johnvict_)](https://twitter.com/@johnvict_) [![Skype Badge](https://img.shields.io/badge/-Official.Johnvict-blue?style=for-the-badge&logo=skype&logoColor=white&link=skype:live:official.johnvict.com)](skype:live:official.johnvict)
 
