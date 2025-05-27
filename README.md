@@ -24,9 +24,10 @@
 
 ##### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=for-the-badge&logo=Nest.js)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=for-the-badge&logo=NestJs)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=Laravel&logoColor=fff)
 ![Lumen](https://img.shields.io/badge/-lumen-black?style=for-the-badge&logo=lumen)
+![Lumen](https://img.shields.io/badge/-Graphql-black?style=for-the-badge&logo=Graphql)
 
 
 
@@ -35,6 +36,9 @@
 ![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=mysql&logoColor=fffeee)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
+![Docker](https://img.shields.io/badge/-Sentry-black?style=for-the-badge&logo=Sentry)
+![Docker](https://img.shields.io/badge/-RabbitMQ-black?style=for-the-badge&logo=RabbitMQ)
+![Docker](https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logo=Grafana)
 ![aws](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=aws)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
 ![heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=Heroku)
